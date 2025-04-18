@@ -48,9 +48,7 @@ This branch is for participants who want to control their RC cars using an **And
 ## 🖼️ Reference Images  
 
 ### Car Image: 
-<img src="Readme%20Files/Arduino-Car.jpg" alt="Car Setup" width="300"/>
+<img src="Readme_Files/Arduino-Car.jpg" alt="Car Setup" width="300"/>
 
 ### Android App Interface:   
-<img src="Readme%20Files/App_Screenshot.png" alt="App Interface:" width="300"/>
-
-
+<img src="Readme_Files/App_Screenshot.png" alt="App Interface:" width="300"/>
