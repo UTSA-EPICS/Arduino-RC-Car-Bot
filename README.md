@@ -58,4 +58,9 @@ This branch is for the **EPICS Sumo-Bot Competition**.
 ---
 
 ## 🖼️ Reference Images  
-***WIP***
+
+### Car Image: 
+<img src="Readme_Files/Arduino-Car.jpg" alt="Car Setup" width="300"/>
+
+### Controller Interface:   
+<img src="Readme_Files/Car-Remote.jpg" alt="Controller Interface:" width="300"/>
